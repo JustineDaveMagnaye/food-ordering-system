@@ -1,0 +1,123 @@
+C:\Users\yparraguirre\Desktop\Food Ordering System\Food Ordering System\bin\Debug\Food Ordering System.exe.config
+C:\Users\yparraguirre\Desktop\Food Ordering System\Food Ordering System\bin\Debug\Food Ordering System.exe
+C:\Users\yparraguirre\Desktop\Food Ordering System\Food Ordering System\bin\Debug\Food Ordering System.pdb
+C:\Users\yparraguirre\Desktop\Food Ordering System\Food Ordering System\obj\Debug\Food Ordering System.csproj.AssemblyReference.cache
+C:\Users\yparraguirre\Desktop\Food Ordering System\Food Ordering System\obj\Debug\Food_Ordering_System.Properties.Resources.resources
+C:\Users\yparraguirre\Desktop\Food Ordering System\Food Ordering System\obj\Debug\Food Ordering System.csproj.GenerateResource.cache
+C:\Users\yparraguirre\Desktop\Food Ordering System\Food Ordering System\obj\Debug\Food Ordering System.csproj.CoreCompileInputs.cache
+C:\Users\yparraguirre\Desktop\Food Ordering System\Food Ordering System\obj\Debug\Food Ordering System.exe
+C:\Users\yparraguirre\Desktop\Food Ordering System\Food Ordering System\obj\Debug\Food Ordering System.pdb
+C:\Users\yparraguirre\Desktop\Food Ordering System\Food Ordering System\obj\Debug\Food_Ordering_System.LoginForm.resources
+C:\Users\yparraguirre\Desktop\Food Ordering System\Food Ordering System\obj\Debug\Food_Ordering_System.SignupForm.resources
+C:\Users\yparraguirre\Desktop\Food Ordering System\Food Ordering System\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\yparraguirre\Desktop\Food Ordering System\Food Ordering System\bin\Debug\Google.Protobuf.dll
+C:\Users\yparraguirre\Desktop\Food Ordering System\Food Ordering System\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\yparraguirre\Desktop\Food Ordering System\Food Ordering System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\yparraguirre\Desktop\Food Ordering System\Food Ordering System\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\yparraguirre\Desktop\Food Ordering System\Food Ordering System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\yparraguirre\Desktop\Food Ordering System\Food Ordering System\bin\Debug\MySql.Data.dll
+C:\Users\yparraguirre\Desktop\Food Ordering System\Food Ordering System\bin\Debug\System.Buffers.dll
+C:\Users\yparraguirre\Desktop\Food Ordering System\Food Ordering System\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\yparraguirre\Desktop\Food Ordering System\Food Ordering System\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yparraguirre\Desktop\Food Ordering System\Food Ordering System\bin\Debug\System.IO.Pipelines.dll
+C:\Users\yparraguirre\Desktop\Food Ordering System\Food Ordering System\bin\Debug\System.Memory.dll
+C:\Users\yparraguirre\Desktop\Food Ordering System\Food Ordering System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\yparraguirre\Desktop\Food Ordering System\Food Ordering System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\yparraguirre\Desktop\Food Ordering System\Food Ordering System\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\yparraguirre\Desktop\Food Ordering System\Food Ordering System\bin\Debug\ZstdSharp.dll
+C:\Users\yparraguirre\Desktop\Food Ordering System\Food Ordering System\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\yparraguirre\Desktop\Food Ordering System\Food Ordering System\bin\Debug\Google.Protobuf.pdb
+C:\Users\yparraguirre\Desktop\Food Ordering System\Food Ordering System\bin\Debug\Google.Protobuf.xml
+C:\Users\yparraguirre\Desktop\Food Ordering System\Food Ordering System\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\yparraguirre\Desktop\Food Ordering System\Food Ordering System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\yparraguirre\Desktop\Food Ordering System\Food Ordering System\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\yparraguirre\Desktop\Food Ordering System\Food Ordering System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\yparraguirre\Desktop\Food Ordering System\Food Ordering System\bin\Debug\MySql.Data.xml
+C:\Users\yparraguirre\Desktop\Food Ordering System\Food Ordering System\bin\Debug\System.Buffers.xml
+C:\Users\yparraguirre\Desktop\Food Ordering System\Food Ordering System\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\yparraguirre\Desktop\Food Ordering System\Food Ordering System\bin\Debug\System.IO.Pipelines.xml
+C:\Users\yparraguirre\Desktop\Food Ordering System\Food Ordering System\bin\Debug\System.Memory.xml
+C:\Users\yparraguirre\Desktop\Food Ordering System\Food Ordering System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\yparraguirre\Desktop\Food Ordering System\Food Ordering System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\yparraguirre\Desktop\Food Ordering System\Food Ordering System\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\yparraguirre\Desktop\Food Ordering System\Food Ordering System\obj\Debug\Food Ordering System.csproj.CopyComplete
+C:\Users\yparraguirre\Desktop\Food Ordering System\Food Ordering System\obj\Debug\Food_Ordering_System.Adminpage.resources
+C:\Users\yparraguirre\Desktop\Food Ordering System\Food Ordering System\obj\Debug\Food_Ordering_System.AdminPages.Dashboard.resources
+C:\Users\yparraguirre\Desktop\Food Ordering System\Food Ordering System\obj\Debug\Food_Ordering_System.AdminPages.Products.resources
+C:\Users\yparraguirre\Desktop\Food Ordering System\Food Ordering System\obj\Debug\Food_Ordering_System.AdminPages.Sales.resources
+C:\Users\yparraguirre\Desktop\Food Ordering System\Food Ordering System\obj\Debug\Food_Ordering_System.DinningOption.resources
+C:\Users\yparraguirre\Desktop\Food Ordering System\Food Ordering System\obj\Debug\Food_Ordering_System.MainMenu.resources
+C:\Users\yparraguirre\Desktop\Food Ordering System\Food Ordering System\bin\Debug\Guna.UI2.dll
+C:\Users\yparraguirre\Desktop\Food Ordering System\Food Ordering System\obj\Debug\Food_Ordering_System.FoodCart.resources
+C:\Users\yparraguirre\Desktop\Food Ordering System\Food Ordering System\obj\Debug\Food_Ordering_System.PaymentOption.resources
+C:\Users\yparraguirre\Desktop\Food Ordering System\Food Ordering System\obj\Debug\Food_Ordering_System.Receipt.resources
+C:\Users\yparraguirre\Desktop\Food Ordering System\Food Ordering System\obj\Debug\Food_Ordering_System.BillingForm.resources
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\obj\Debug\Food Ordering System.csproj.AssemblyReference.cache
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\obj\Debug\Food_Ordering_System.AdminPage.resources
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\obj\Debug\Food_Ordering_System.AdminPages.Dashboard.resources
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\obj\Debug\Food_Ordering_System.AdminPages.Products.resources
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\obj\Debug\Food_Ordering_System.AdminPages.Sales.resources
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\obj\Debug\Food_Ordering_System.BillingForm.resources
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\obj\Debug\Food_Ordering_System.LoginForm.resources
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\obj\Debug\Food_Ordering_System.Properties.Resources.resources
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\obj\Debug\Food_Ordering_System.Receipt.resources
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\obj\Debug\Food_Ordering_System.Resource1.resources
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\obj\Debug\Food_Ordering_System.SignupForm.resources
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\obj\Debug\Food_Ordering_System.DinningOption.resources
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\obj\Debug\Food Ordering System.csproj.GenerateResource.cache
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\obj\Debug\Food Ordering System.csproj.CoreCompileInputs.cache
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\bin\Debug\Food Ordering System.exe.config
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\bin\Debug\Food Ordering System.exe
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\bin\Debug\Food Ordering System.pdb
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\bin\Debug\Google.Protobuf.dll
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\bin\Debug\Guna.UI2.dll
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\bin\Debug\K4os.Compression.LZ4.dll
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\bin\Debug\K4os.Hash.xxHash.dll
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\bin\Debug\MaterialSkin.dll
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\bin\Debug\MySql.Data.dll
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\bin\Debug\System.Buffers.dll
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\bin\Debug\System.IO.Pipelines.dll
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\bin\Debug\System.Memory.dll
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\bin\Debug\System.Numerics.Vectors.dll
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\bin\Debug\ZstdSharp.dll
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\bin\Debug\Google.Protobuf.pdb
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\bin\Debug\Google.Protobuf.xml
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\bin\Debug\K4os.Compression.LZ4.xml
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\bin\Debug\K4os.Hash.xxHash.xml
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\bin\Debug\MySql.Data.xml
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\bin\Debug\System.Buffers.xml
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\bin\Debug\System.IO.Pipelines.xml
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\bin\Debug\System.Memory.xml
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\bin\Debug\System.Numerics.Vectors.xml
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\obj\Debug\Food Ord.B00D1EA5.Up2Date
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\obj\Debug\Food Ordering System.exe
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\obj\Debug\Food Ordering System.pdb
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\obj\Debug\Food_Ordering_System.AddProduct.resources
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\bin\Debug\LiveCharts.dll
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\bin\Debug\LiveCharts.Wpf.dll
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\bin\Debug\LiveCharts.pdb
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\bin\Debug\LiveCharts.xml
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\bin\Debug\LiveCharts.Wpf.pdb
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\bin\Debug\LiveCharts.Wpf.xml
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\bin\Debug\LiveCharts.WinForms.dll
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\bin\Debug\LiveCharts.WinForms.pdb
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\bin\Debug\LiveCharts.WinForms.xml
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\obj\Debug\Food_Ordering_System.MainOptions.resources
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\obj\Debug\Food_Ordering_System.QuantityOption.resources
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\bin\Debug\Newtonsoft.Json.dll
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\bin\Debug\Newtonsoft.Json.xml
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\bin\Debug\BCrypt.Net-Next.dll
+D:\Food Ordering System\New folder\Food Ordering System\Food Ordering System\Food Ordering System\bin\Debug\BCrypt.Net-Next.xml
