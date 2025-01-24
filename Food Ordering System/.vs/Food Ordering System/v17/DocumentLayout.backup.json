@@ -1,12 +1,624 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Food Ordering System\\New folder\\Food Ordering System\\Food Ordering System\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|c:\\users\\jdee1\\onedrive\\documents\\github\\porms-ums-application\\food-ordering-system\\food ordering system\\food ordering system\\views\\modal\\receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|solutionrelative:food ordering system\\views\\modal\\receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\food ordering system\\adminpages\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|solutionrelative:food ordering system\\adminpages\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\AdminPages\\Products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|solutionrelative:Food Ordering System\\AdminPages\\Products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\views\\modal\\Receipt.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|solutionrelative:Food Ordering System\\views\\modal\\Receipt.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\AdminPages\\Dashboard.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|solutionrelative:Food Ordering System\\AdminPages\\Dashboard.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\views\\AdminPage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|solutionrelative:Food Ordering System\\views\\AdminPage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\AdminPages\\Products.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|solutionrelative:Food Ordering System\\AdminPages\\Products.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\AdminPages\\Sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|solutionrelative:Food Ordering System\\AdminPages\\Sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\src\\main\\appl\\facade\\account\\impl\\accountFacadeImpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|solutionrelative:Food Ordering System\\src\\main\\appl\\facade\\account\\impl\\accountFacadeImpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\AdminPages\\Dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|solutionrelative:Food Ordering System\\AdminPages\\Dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\views\\SignupForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|solutionrelative:Food Ordering System\\views\\SignupForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\src\\main\\data\\employee\\dao\\impl\\employeeDaoImpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|solutionrelative:Food Ordering System\\src\\main\\data\\employee\\dao\\impl\\employeeDaoImpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\views\\LoginForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|solutionrelative:Food Ordering System\\views\\LoginForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\views\\LoginForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|solutionrelative:Food Ordering System\\views\\LoginForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\src\\main\\data\\account\\dao\\accountDao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|solutionrelative:Food Ordering System\\src\\main\\data\\account\\dao\\accountDao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\src\\main\\data\\account\\dao\\impl\\accountDaoImpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|solutionrelative:Food Ordering System\\src\\main\\data\\account\\dao\\impl\\accountDaoImpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\src\\main\\appl\\facade\\sales\\impl\\salesFacadeImpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|solutionrelative:Food Ordering System\\src\\main\\appl\\facade\\sales\\impl\\salesFacadeImpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\src\\main\\data\\product\\dao\\impl\\productDaoImpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|solutionrelative:Food Ordering System\\src\\main\\data\\product\\dao\\impl\\productDaoImpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\views\\MainOptions.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|solutionrelative:Food Ordering System\\views\\MainOptions.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\src\\main\\data\\sales\\dao\\impl\\salesDaoImpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|solutionrelative:Food Ordering System\\src\\main\\data\\sales\\dao\\impl\\salesDaoImpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\views\\MainOptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|solutionrelative:Food Ordering System\\views\\MainOptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\src\\main\\data\\utils\\SalesQueryConstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|solutionrelative:Food Ordering System\\src\\main\\data\\utils\\SalesQueryConstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\src\\main\\data\\sales\\dao\\salesDao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|solutionrelative:Food Ordering System\\src\\main\\data\\sales\\dao\\salesDao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\views\\SignupForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|solutionrelative:Food Ordering System\\views\\SignupForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\views\\modal\\AddProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|solutionrelative:Food Ordering System\\views\\modal\\AddProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\src\\main\\appl\\facade\\product\\productFacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|solutionrelative:Food Ordering System\\src\\main\\appl\\facade\\product\\productFacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\src\\main\\data\\product\\dao\\productDao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|solutionrelative:Food Ordering System\\src\\main\\data\\product\\dao\\productDao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\src\\main\\appl\\model\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|solutionrelative:Food Ordering System\\src\\main\\appl\\model\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\src\\main\\appl\\facade\\product\\impl\\productFacadeImpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|solutionrelative:Food Ordering System\\src\\main\\appl\\facade\\product\\impl\\productFacadeImpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\food ordering system\\views\\mainoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|solutionrelative:food ordering system\\views\\mainoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\food ordering system\\views\\dinningoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|solutionrelative:food ordering system\\views\\dinningoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\food ordering system\\views\\modal\\receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|solutionrelative:food ordering system\\views\\modal\\receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\food ordering system\\adminpages\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|solutionrelative:food ordering system\\adminpages\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\food ordering system\\views\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|solutionrelative:food ordering system\\views\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\food ordering system\\adminpages\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|solutionrelative:food ordering system\\adminpages\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\food ordering system\\views\\adminpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|solutionrelative:food ordering system\\views\\adminpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\food ordering system\\views\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|solutionrelative:food ordering system\\views\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\food ordering system\\views\\modal\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{913594A4-75B6-4DCF-9DC9-BE86B29D8290}|Food Ordering System\\Food Ordering System.csproj|solutionrelative:food ordering system\\views\\modal\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\AdminPages\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Food Ordering System\\AdminPages\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\AdminPages\\Dashboard.cs [Design]",
+              "RelativeToolTip": "Food Ordering System\\AdminPages\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T17:38:50.82Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Receipt.cs",
+              "DocumentMoniker": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\views\\modal\\Receipt.cs",
+              "RelativeDocumentMoniker": "Food Ordering System\\views\\modal\\Receipt.cs",
+              "ToolTip": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\views\\modal\\Receipt.cs",
+              "RelativeToolTip": "Food Ordering System\\views\\modal\\Receipt.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAUwNgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T11:13:26.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\AdminPages\\Products.cs",
+              "RelativeDocumentMoniker": "Food Ordering System\\AdminPages\\Products.cs",
+              "ToolTip": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\AdminPages\\Products.cs",
+              "RelativeToolTip": "Food Ordering System\\AdminPages\\Products.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwEEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T11:52:40.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Receipt.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\views\\modal\\Receipt.Designer.cs",
+              "RelativeDocumentMoniker": "Food Ordering System\\views\\modal\\Receipt.Designer.cs",
+              "ToolTip": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\views\\modal\\Receipt.Designer.cs",
+              "RelativeToolTip": "Food Ordering System\\views\\modal\\Receipt.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:08:05.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\AdminPages\\Dashboard.Designer.cs",
+              "RelativeDocumentMoniker": "Food Ordering System\\AdminPages\\Dashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\AdminPages\\Dashboard.Designer.cs",
+              "RelativeToolTip": "Food Ordering System\\AdminPages\\Dashboard.Designer.cs",
+              "ViewState": "AgIAANsAAAAAAAAAAAAMwOYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T12:11:42.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminPage.cs",
+              "DocumentMoniker": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\views\\AdminPage.cs",
+              "RelativeDocumentMoniker": "Food Ordering System\\views\\AdminPage.cs",
+              "ToolTip": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\views\\AdminPage.cs",
+              "RelativeToolTip": "Food Ordering System\\views\\AdminPage.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAuwIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T18:02:16.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Products.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\AdminPages\\Products.Designer.cs",
+              "RelativeDocumentMoniker": "Food Ordering System\\AdminPages\\Products.Designer.cs",
+              "ToolTip": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\AdminPages\\Products.Designer.cs",
+              "RelativeToolTip": "Food Ordering System\\AdminPages\\Products.Designer.cs",
+              "ViewState": "AgIAAGQBAAAAAAAAAAAAwHkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T18:53:38.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Sales.cs",
+              "DocumentMoniker": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\AdminPages\\Sales.cs",
+              "RelativeDocumentMoniker": "Food Ordering System\\AdminPages\\Sales.cs",
+              "ToolTip": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\AdminPages\\Sales.cs",
+              "RelativeToolTip": "Food Ordering System\\AdminPages\\Sales.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:17:11.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "accountFacadeImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\src\\main\\appl\\facade\\account\\impl\\accountFacadeImpl.cs",
+              "RelativeDocumentMoniker": "Food Ordering System\\src\\main\\appl\\facade\\account\\impl\\accountFacadeImpl.cs",
+              "ToolTip": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\src\\main\\appl\\facade\\account\\impl\\accountFacadeImpl.cs",
+              "RelativeToolTip": "Food Ordering System\\src\\main\\appl\\facade\\account\\impl\\accountFacadeImpl.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:42:51.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\AdminPages\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Food Ordering System\\AdminPages\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\AdminPages\\Dashboard.cs",
+              "RelativeToolTip": "Food Ordering System\\AdminPages\\Dashboard.cs",
+              "ViewState": "AgIAAG0BAAAAAAAAAAAawHYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T11:52:35.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SignupForm.cs",
+              "DocumentMoniker": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\views\\SignupForm.cs",
+              "RelativeDocumentMoniker": "Food Ordering System\\views\\SignupForm.cs",
+              "ToolTip": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\views\\SignupForm.cs",
+              "RelativeToolTip": "Food Ordering System\\views\\SignupForm.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAiwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T17:18:12.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "employeeDaoImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\src\\main\\data\\employee\\dao\\impl\\employeeDaoImpl.cs",
+              "RelativeDocumentMoniker": "Food Ordering System\\src\\main\\data\\employee\\dao\\impl\\employeeDaoImpl.cs",
+              "ToolTip": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\src\\main\\data\\employee\\dao\\impl\\employeeDaoImpl.cs",
+              "RelativeToolTip": "Food Ordering System\\src\\main\\data\\employee\\dao\\impl\\employeeDaoImpl.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:43:17.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\views\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Food Ordering System\\views\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\views\\LoginForm.cs",
+              "RelativeToolTip": "Food Ordering System\\views\\LoginForm.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvx8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T11:25:19.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\views\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "Food Ordering System\\views\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\views\\LoginForm.Designer.cs",
+              "RelativeToolTip": "Food Ordering System\\views\\LoginForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T17:18:30.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "accountDao.cs",
+              "DocumentMoniker": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\src\\main\\data\\account\\dao\\accountDao.cs",
+              "RelativeDocumentMoniker": "Food Ordering System\\src\\main\\data\\account\\dao\\accountDao.cs",
+              "ToolTip": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\src\\main\\data\\account\\dao\\accountDao.cs",
+              "RelativeToolTip": "Food Ordering System\\src\\main\\data\\account\\dao\\accountDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:42:45.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "accountDaoImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\src\\main\\data\\account\\dao\\impl\\accountDaoImpl.cs",
+              "RelativeDocumentMoniker": "Food Ordering System\\src\\main\\data\\account\\dao\\impl\\accountDaoImpl.cs",
+              "ToolTip": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\src\\main\\data\\account\\dao\\impl\\accountDaoImpl.cs",
+              "RelativeToolTip": "Food Ordering System\\src\\main\\data\\account\\dao\\impl\\accountDaoImpl.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAuwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:42:14.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "salesFacadeImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\src\\main\\appl\\facade\\sales\\impl\\salesFacadeImpl.cs",
+              "RelativeDocumentMoniker": "Food Ordering System\\src\\main\\appl\\facade\\sales\\impl\\salesFacadeImpl.cs",
+              "ToolTip": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\src\\main\\appl\\facade\\sales\\impl\\salesFacadeImpl.cs",
+              "RelativeToolTip": "Food Ordering System\\src\\main\\appl\\facade\\sales\\impl\\salesFacadeImpl.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwEMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T11:18:20.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "productDaoImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\src\\main\\data\\product\\dao\\impl\\productDaoImpl.cs",
+              "RelativeDocumentMoniker": "Food Ordering System\\src\\main\\data\\product\\dao\\impl\\productDaoImpl.cs",
+              "ToolTip": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\src\\main\\data\\product\\dao\\impl\\productDaoImpl.cs",
+              "RelativeToolTip": "Food Ordering System\\src\\main\\data\\product\\dao\\impl\\productDaoImpl.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwDgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T11:31:16.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainOptions.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\views\\MainOptions.Designer.cs",
+              "RelativeDocumentMoniker": "Food Ordering System\\views\\MainOptions.Designer.cs",
+              "ToolTip": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\views\\MainOptions.Designer.cs",
+              "RelativeToolTip": "Food Ordering System\\views\\MainOptions.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:23:19.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "salesDaoImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\src\\main\\data\\sales\\dao\\impl\\salesDaoImpl.cs",
+              "RelativeDocumentMoniker": "Food Ordering System\\src\\main\\data\\sales\\dao\\impl\\salesDaoImpl.cs",
+              "ToolTip": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\src\\main\\data\\sales\\dao\\impl\\salesDaoImpl.cs",
+              "RelativeToolTip": "Food Ordering System\\src\\main\\data\\sales\\dao\\impl\\salesDaoImpl.cs",
+              "ViewState": "AgIAALwAAAAAAAAAAADwv84AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T11:18:30.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MainOptions.cs",
+              "DocumentMoniker": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\views\\MainOptions.cs",
+              "RelativeDocumentMoniker": "Food Ordering System\\views\\MainOptions.cs",
+              "ToolTip": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\views\\MainOptions.cs",
+              "RelativeToolTip": "Food Ordering System\\views\\MainOptions.cs",
+              "ViewState": "AgIAAKYBAAAAAAAAAADwv6wBAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T11:30:36.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SalesQueryConstant.cs",
+              "DocumentMoniker": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\src\\main\\data\\utils\\SalesQueryConstant.cs",
+              "RelativeDocumentMoniker": "Food Ordering System\\src\\main\\data\\utils\\SalesQueryConstant.cs",
+              "ToolTip": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\src\\main\\data\\utils\\SalesQueryConstant.cs",
+              "RelativeToolTip": "Food Ordering System\\src\\main\\data\\utils\\SalesQueryConstant.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwDIAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T11:35:48.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "salesDao.cs",
+              "DocumentMoniker": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\src\\main\\data\\sales\\dao\\salesDao.cs",
+              "RelativeDocumentMoniker": "Food Ordering System\\src\\main\\data\\sales\\dao\\salesDao.cs",
+              "ToolTip": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\src\\main\\data\\sales\\dao\\salesDao.cs",
+              "RelativeToolTip": "Food Ordering System\\src\\main\\data\\sales\\dao\\salesDao.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T11:28:38.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SignupForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\views\\SignupForm.Designer.cs",
+              "RelativeDocumentMoniker": "Food Ordering System\\views\\SignupForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\views\\SignupForm.Designer.cs",
+              "RelativeToolTip": "Food Ordering System\\views\\SignupForm.Designer.cs",
+              "ViewState": "AgIAADMBAAAAAAAAAAD4vzoBAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T12:11:55.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AddProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\views\\modal\\AddProduct.cs",
+              "RelativeDocumentMoniker": "Food Ordering System\\views\\modal\\AddProduct.cs",
+              "ToolTip": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\views\\modal\\AddProduct.cs",
+              "RelativeToolTip": "Food Ordering System\\views\\modal\\AddProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T13:33:37.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "productFacade.cs",
+              "DocumentMoniker": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\src\\main\\appl\\facade\\product\\productFacade.cs",
+              "RelativeDocumentMoniker": "Food Ordering System\\src\\main\\appl\\facade\\product\\productFacade.cs",
+              "ToolTip": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\src\\main\\appl\\facade\\product\\productFacade.cs",
+              "RelativeToolTip": "Food Ordering System\\src\\main\\appl\\facade\\product\\productFacade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T12:09:55.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "productDao.cs",
+              "DocumentMoniker": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\src\\main\\data\\product\\dao\\productDao.cs",
+              "RelativeDocumentMoniker": "Food Ordering System\\src\\main\\data\\product\\dao\\productDao.cs",
+              "ToolTip": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\src\\main\\data\\product\\dao\\productDao.cs",
+              "RelativeToolTip": "Food Ordering System\\src\\main\\data\\product\\dao\\productDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T11:47:16.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\src\\main\\appl\\model\\Product.cs",
+              "RelativeDocumentMoniker": "Food Ordering System\\src\\main\\appl\\model\\Product.cs",
+              "ToolTip": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\src\\main\\appl\\model\\Product.cs",
+              "RelativeToolTip": "Food Ordering System\\src\\main\\appl\\model\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T11:46:37.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "productFacadeImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\src\\main\\appl\\facade\\product\\impl\\productFacadeImpl.cs",
+              "RelativeDocumentMoniker": "Food Ordering System\\src\\main\\appl\\facade\\product\\impl\\productFacadeImpl.cs",
+              "ToolTip": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\src\\main\\appl\\facade\\product\\impl\\productFacadeImpl.cs",
+              "RelativeToolTip": "Food Ordering System\\src\\main\\appl\\facade\\product\\impl\\productFacadeImpl.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T11:31:07.77Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MainOptions.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\views\\MainOptions.cs",
+              "RelativeDocumentMoniker": "Food Ordering System\\views\\MainOptions.cs",
+              "ToolTip": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\views\\MainOptions.cs [Design]",
+              "RelativeToolTip": "Food Ordering System\\views\\MainOptions.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T20:07:18.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DinningOption.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\views\\DinningOption.cs",
+              "RelativeDocumentMoniker": "Food Ordering System\\views\\DinningOption.cs",
+              "ToolTip": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\views\\DinningOption.cs [Design]",
+              "RelativeToolTip": "Food Ordering System\\views\\DinningOption.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T17:42:38.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Receipt.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\views\\modal\\Receipt.cs",
+              "RelativeDocumentMoniker": "Food Ordering System\\views\\modal\\Receipt.cs",
+              "ToolTip": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\views\\modal\\Receipt.cs [Design]",
+              "RelativeToolTip": "Food Ordering System\\views\\modal\\Receipt.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T11:13:04.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Sales.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\AdminPages\\Sales.cs",
+              "RelativeDocumentMoniker": "Food Ordering System\\AdminPages\\Sales.cs",
+              "ToolTip": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\AdminPages\\Sales.cs [Design]",
+              "RelativeToolTip": "Food Ordering System\\AdminPages\\Sales.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:27:43.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\views\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Food Ordering System\\views\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\views\\LoginForm.cs [Design]",
+              "RelativeToolTip": "Food Ordering System\\views\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T17:27:29.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Products.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\AdminPages\\Products.cs",
+              "RelativeDocumentMoniker": "Food Ordering System\\AdminPages\\Products.cs",
+              "ToolTip": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\AdminPages\\Products.cs [Design]",
+              "RelativeToolTip": "Food Ordering System\\AdminPages\\Products.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:12:43.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AdminPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\views\\AdminPage.cs",
+              "RelativeDocumentMoniker": "Food Ordering System\\views\\AdminPage.cs",
+              "ToolTip": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\views\\AdminPage.cs [Design]",
+              "RelativeToolTip": "Food Ordering System\\views\\AdminPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T17:36:33.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SignupForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\views\\SignupForm.cs",
+              "RelativeDocumentMoniker": "Food Ordering System\\views\\SignupForm.cs",
+              "ToolTip": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\views\\SignupForm.cs [Design]",
+              "RelativeToolTip": "Food Ordering System\\views\\SignupForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T09:40:29.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AddProduct.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\views\\modal\\AddProduct.cs",
+              "RelativeDocumentMoniker": "Food Ordering System\\views\\modal\\AddProduct.cs",
+              "ToolTip": "C:\\Users\\Jdee1\\OneDrive\\Documents\\GitHub\\porms-ums-application\\food-ordering-system\\Food Ordering System\\Food Ordering System\\views\\modal\\AddProduct.cs [Design]",
+              "RelativeToolTip": "Food Ordering System\\views\\modal\\AddProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T13:33:32.711Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
